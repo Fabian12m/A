@@ -1,11 +1,7 @@
 {
-    "squadName" : "Super Hero Squad",
-    "homeTown" : "Metro City",
-    "formed" : 2016,
-    "secretBase" : "Super tower",
-    "active" : true,
-    "members" :
-    "Sitios_montañosos": [
+    "Lugares" : "Regiones Montañosas",
+    "Ubicación" : "Colombia",
+    "Sitios montañosos": [
       {
         "Latitud": 4.328657152699365, 
         "Longitud": -74.49731145787884,
