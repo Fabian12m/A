@@ -1,0 +1,74 @@
+{
+    "Sitios_montañosos": [
+      {
+        "Latitud": 4.328657152699365, 
+        "Longitud": -74.49731145787884,
+        "Ciudad": "Tibacuy",
+        "Descripcion": "Cerro de Quininí",
+        "Altitud":"2130 m"
+      },
+      {
+        "Latitud": 4.607725175275857,
+        "Longitud": -74.05466774188663,
+        "Ciudad": "Bogotá",
+        "Descripcion": "Monserrate",
+        "Altitud":"3152 m"
+      },
+      {
+        "Latitud": 4.896274228223614,
+        "Longitud": -75.31849232580359,
+        "Ciudad": "Caldas-Tolima",
+        "Descripcion": "Nevado del Ruiz",
+        "Altitud":"5321 m"
+      },
+      {
+        "Latitud": 10.843210766052493,
+        "Longitud": -73.68673266334747,
+        "Ciudad": "Santa Marta",
+        "Descripcion": "Pico Cristóbal Colón",
+        "Altitud":"5730 m"
+      },
+      {
+        "Latitud": 4.661096682870151,
+        "Longitud": -75.33040524741374,
+        "Ciudad": "Ibague",
+        "Descripcion": "Nevado del Tolima",
+        "Altitud":"5276 m"
+      },
+      {
+        "Latitud": 0.9547658686549183, 
+        "Longitud": -77.88817799161264,
+        "Ciudad": "Cumbal, Nariño",
+        "Descripcion": "Volcan Cumbal",
+        "Altitud":"4764 m"
+      },
+      {
+        "Latitud": 6.562639733725736, 
+        "Longitud": -72.3004648250201,
+        "Ciudad": "Güican, Boyacá",
+        "Descripcion": "Ritacuba Blanco",
+        "Altitud":"5410 m"
+      },
+      {
+        "Latitud": 1.226339361047206, 
+        "Longitud": -77.36197591074547,
+        "Ciudad": "La Florida, Nariño",
+        "Descripcion": "Volcán Galeras",
+        "Altitud":"4276 m"
+      },
+      {
+        "Latitud": 6.226852080290153,  
+        "Longitud": -75.17850520868673,
+        "Ciudad": "Guatapé",
+        "Descripcion": "Piedra del Peñol",
+        "Altitud":"2135 m"
+      },
+      {
+        "Latitud": 4.5924445242301815,  
+        "Longitud": -74.05413660743969,
+        "Ciudad": "Bogotá",
+        "Descripcion": "Cerro de Guadalupe",
+        "Altitud":"3360 m"
+      }
+    ]
+}
